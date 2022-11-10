@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Luca
+- 👀 I’m interested in Web- and Mobilengineering
+- 🌱 I’m currently learning Flutter
